@@ -25,7 +25,7 @@ body {
 }
 
 .imagen_header .banner {
-    background: url(assets/imgs/bg-header.jpg);
+    background: url(/assets/imgs/bg-header.jpg);
     background-repeat: no-repeat;
     background-position:top;
     background-size:cover;
