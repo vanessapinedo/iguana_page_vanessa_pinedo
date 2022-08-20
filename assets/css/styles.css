@@ -1,0 +1,129 @@
+nav li {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: normal;
+}
+
+nav {
+    width: auto;
+    height: 73px;
+    text-align: center;
+}
+
+nav ul {
+    background-color: black;
+    opacity: 1;
+    margin: 0px;
+    padding: 10px;
+    font-size: 3em;
+}
+
+body {
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.imagen_header .banner {
+    background: url(/assets/imgs/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size:cover;
+    width: 100%;
+    height:100vh;
+}
+
+.texto_central {
+    background-color: black;
+    padding: 4em;
+    text-align: center;
+}
+
+.texto_central div {
+    text-align: center;
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.texto_central p {
+    width: 80%;
+    font-weight: lighter;
+    color: white;
+    text-align: left;
+    margin-left: auto;
+}
+
+.footer { 
+    background-color: #1E1A13;
+    font-weight: lighter;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    vertical-align: middle;
+    padding: 10px;
+    margin: 0px;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer div {
+    width: 80%;
+    display: inline-block;
+    padding: 30px;
+}
+
+.footer a:hover {
+    color:greenyellow;
+}
+
+.caracteristicas {
+        text-align: center;
+        background-color: #1E1A13;
+        padding: 2em;
+        color: white;
+}
+
+.caracteristicas div {
+    width: 25%;
+    display: inline-block;
+}
+
+.caracteristicas h1 {
+    font-size: 40px;
+    margin-bottom: 70px;
+    font-weight: normal;
+}
+    
+.caracteristicas i {
+    font-size: 55px;
+}
+
+.caracteristicas p {
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.galeria_iguanas {
+    text-align: center;
+    background-color: black;
+    padding: 4.5em;
+}
+
+.galeria_iguanas img {
+    width: 20%;
+    padding: 10px;
+}
+
+ol {
+
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    width: 100px;
+    margin: 0px;
+}
